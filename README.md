@@ -23,7 +23,8 @@
 
 1. **Клонируйте репозиторий**:
     ```sh
-    
+    git clone https://github.com/JustDoinGL/del.git
+    cd del
     ```
 
 2. **Установите зависимости**:
